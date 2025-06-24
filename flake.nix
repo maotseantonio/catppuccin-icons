@@ -1,4 +1,3 @@
-
 {
   description = "Catppuccin Icon Theme Flake";
 
